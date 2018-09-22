@@ -34,5 +34,5 @@
 ###### ● Tutored in UW Seattle, UW Tacoma, Green River Community College.
 
 ##### Security Officer | 2015 – 2018
-###### ● Conducted perimeter controls and alarm response. Assured customer satisfaction through complete saftey.
+###### ● Conducted perimeter controls and alarm response. Assured customer satisfaction through complete safety.
 ###### ● Security Officer for U.S. Security Associates (2015) and Allied Universal Security (2016 - 2018). Contracted to Amazon Warehouses, Xerox, and UPS facilities.

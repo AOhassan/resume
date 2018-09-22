@@ -1,14 +1,3 @@
-Johnny Coder
-============
-
--------------------     ----------------------------
-Software Engineer               Ahmedhosman@live.com
-Seattle, WA                     206.578.7931                          
--------------------     ----------------------------
-
-Education
----------
-
 # Ahmed Osman
 ## Software Engineer
 #### Seattle, WA | ​Ahmedhosman@live.com​ | 206.578.7931 <a href="https://www.linkedin.com/in/ahmedhosman/">linkedin.com/in/ahmedhosman​</a> | ​<a href="https://github.com/AOhassan">github.com/AOhassan</a>
@@ -40,7 +29,7 @@ Education
 
 #### Experience
 ##### Private Tutor | 2015 – Present
-###### ● Helped undergraduate Math, Science and Engineering students excel in classes through one-on-one lessons.
+###### * Helped undergraduate Math, Science and Engineering students excel in classes through one-on-one lessons.
 ###### ● Tutored Students in pre-Algebra, Algebra, pre-Calculus, Calculus 1, Calculus 2, Calculus 3, Calculus 4, Differential Equations, Linear Algebra, Proabability and statistics, Chemistry and Physics.
 ###### ● Tutored in UW Seattle, UW Tacoma, Green River Community College.
 

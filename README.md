@@ -4,18 +4,18 @@
 ##### Software Engineer with a strong background in mathematics and sciences. The 3+ years of experience in customer service from being a private tutor and security officer at multiple agencies has contributed to my passion in delivering the best possible product.
 #### Technical Skills
 ```
- Frameworks, Libraries, and Tools:​ SpringMVC, Postgres, JUnit, Maven, Gradle, IntelliJ IDEA, git/GitHub
+ Frameworks, Libraries, and Tools:​ Spring MVC, Postgres, JUnit, Maven, Gradle, IntelliJ IDEA, git/GitHub
  Languages:​ Java, Python, JavaScript, HTML5, CSS, SQL
  Standards:​ Agile, RESTful, API development
 ```
 #### Projects
 ##### GameTree | August 2018 | ​ <a href="github.com/GoldBeardSea/GameTree">github.com/GoldBeardSea/GameTree</a> | https://gametree-01.herokuapp.com
 ###### A gaming site where authenticated users can play against our AI or a friend and compete in the leaderboards.
-###### Languages and tools: Java, SpringMVC, SQL, Heroku, JavaScript, AJAX, HTML, Bootstrap/CSS, BCrypt.
+###### Languages and tools: Java, Spring MVC, SQL, Heroku, JavaScript, AJAX, HTML, Bootstrap/CSS, BCrypt.
 
 ##### TaxCodeCheck | September 2018 | ​ https://github.com/TaxCodeCheck  
 ###### We partned with Avalara to create an Android app that connects to their API and retrieves tax information for users.
-###### Languages and tools: Android Studio, Java , SpringMVC, Heroku.
+###### Languages and tools: Android Studio, Java , Spring MVC, Heroku.
 
 #### Education
 ##### Code Fellows | Seattle, WA | September 16, 2018 

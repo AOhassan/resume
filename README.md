@@ -14,7 +14,7 @@
 ###### Languages and tools: Java, SpringMVC, SQL, Heroku, JavaScript, AJAX, HTML, Bootstrap/CSS, BCrypt.
 
 ##### TaxCodeCheck | September 2018 | ​ https://github.com/TaxCodeCheck  
-###### We partned with Avalara to create a mobile app that connects to their API and retrieves tax information for users.
+###### We partned with Avalara to create an Android app that connects to their API and retrieves tax information for users.
 ###### Languages and tools: Android Studio, Java , SpringMVC, Heroku.
 
 #### Education

@@ -4,7 +4,7 @@
 ##### Software Engineer with a strong background in mathematics and sciences. The 3+ years of experience in customer service from being a private tutor and security officer at multiple agencies has contributed to my passion in delivering the best possible product.
 #### Technical Skills
 ```
- Frameworks, Libraries, and Tools:​ SpringMVC, Postgres, JUnit, Maven, Gradle, IntelliJ IDEA, vim, git/GitHub
+ Frameworks, Libraries, and Tools:​ SpringMVC, Postgres, JUnit, Maven, Gradle, IntelliJ IDEA, git/GitHub
  Languages:​ Java, Python, JavaScript, HTML5, CSS, SQL
  Standards:​ Agile, RESTful, API development
 ```
@@ -29,7 +29,7 @@
 
 #### Experience
 ##### Private Tutor | 2015 – Present
-###### * Helped undergraduate Math, Science and Engineering students excel in classes through one-on-one lessons.
+###### ● Helped undergraduate Math, Science and Engineering students excel in classes through one-on-one lessons.
 ###### ● Tutored Students in pre-Algebra, Algebra, pre-Calculus, Calculus 1, Calculus 2, Calculus 3, Calculus 4, Differential Equations, Linear Algebra, Proabability and statistics, Chemistry and Physics.
 ###### ● Tutored in UW Seattle, UW Tacoma, Green River Community College.
 

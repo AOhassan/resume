@@ -11,11 +11,11 @@
 #### Projects
 ##### GameTree | August 2018 | ​ <a href="github.com/GoldBeardSea/GameTree">github.com/GoldBeardSea/GameTree</a> | https://gametree-01.herokuapp.com
 ###### A gaming site where authenticated users can play against our AI or a friend and compete in the leaderboards.
-Languages and tools: Java, SpringMVC, SQL, Heroku, JavaScript, AJAX, HTML, Bootstrap/CSS, BCrypt.
+###### Languages and tools: Java, SpringMVC, SQL, Heroku, JavaScript, AJAX, HTML, Bootstrap/CSS, BCrypt.
 
 ##### TaxCodeCheck | September 2018 | ​ https://github.com/TaxCodeCheck  
 ###### We partned with Avalara to create a mobile app that connects to their API and retrieves tax information for users.
-Languages and tools: Android Studio, Java , SpringMVC, Heroku.
+###### Languages and tools: Android Studio, Java , SpringMVC, Heroku.
 
 #### Education
 ##### Code Fellows | Seattle, WA | September 16, 2018 

@@ -1,3 +1,14 @@
+Johnny Coder
+============
+
+-------------------     ----------------------------
+Software Engineer               Ahmedhosman@live.com
+Seattle, WA                     206.578.7931                          
+-------------------     ----------------------------
+
+Education
+---------
+
 # Ahmed Osman
 ## Software Engineer
 #### Seattle, WA | ​Ahmedhosman@live.com​ | 206.578.7931 <a href="https://www.linkedin.com/in/ahmedhosman/">linkedin.com/in/ahmedhosman​</a> | ​<a href="https://github.com/AOhassan">github.com/AOhassan</a>
